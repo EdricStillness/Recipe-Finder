@@ -2,6 +2,8 @@
 
 A beautiful, modern web application for finding delicious recipes using TheMealDB API. Built with vanilla HTML, CSS, and JavaScript with stunning 3D glassmorphism design.
 
+🌐 **Live Demo**: [https://tranmaitiendat.github.io/Recipe-Finder/](https://tranmaitiendat.github.io/Recipe-Finder/)
+
 ## ✨ Features
 
 ### 🔍 Smart Search Options
@@ -31,8 +33,8 @@ A beautiful, modern web application for finding delicious recipes using TheMealD
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/recipe-finder.git
-   cd recipe-finder
+   git clone https://github.com/TranMaiTienDat/Recipe-Finder.git
+   cd Recipe-Finder
    ```
 
 2. **Open in browser**
@@ -43,7 +45,9 @@ A beautiful, modern web application for finding delicious recipes using TheMealD
    start index.html
    ```
 
-3. **Start cooking!** 🍽️
+3. **Or visit the live demo**: [https://tranmaitiendat.github.io/Recipe-Finder/](https://tranmaitiendat.github.io/Recipe-Finder/)
+
+4. **Start cooking!** 🍽️
 
 ## 📁 Project Structure
 
