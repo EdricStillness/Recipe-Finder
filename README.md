@@ -1,35 +1,35 @@
-# 🍳 Recipe Finder
+# Recipe Finder
 
 A beautiful, modern web application for finding delicious recipes using TheMealDB API. Built with vanilla HTML, CSS, and JavaScript with stunning 3D glassmorphism design.
 
-🌐 **Live Demo**: [https://tranmaitiendat.github.io/Recipe-Finder/](https://tranmaitiendat.github.io/Recipe-Finder/)
+ **Live Demo**: [https://tranmaitiendat.github.io/Recipe-Finder/](https://tranmaitiendat.github.io/Recipe-Finder/)
 
-## ✨ Features
+##  Features
 
-### 🔍 Smart Search Options
+### Smart Search Options
 - **Search by Name**: Find recipes by dish name
 - **Search by Ingredient**: Find recipes containing specific ingredients (supports multiple ingredients)
 - **Search by Category**: Browse recipes by category (Dessert, Seafood, Vegetarian, etc.)
 - **Search by Area**: Explore cuisines from different regions (Italian, Japanese, Vietnamese, etc.)
 
-### 🎲 Random Recipe Generator
+###  Random Recipe Generator
 - Get random recipe suggestions
 - Smart random based on selected filters (category/area)
 - Perfect for when you don't know what to cook!
 
-### 📱 Modern UI/UX
+###  Modern UI/UX
 - **3D Glassmorphism Design**: Beautiful translucent cards with blur effects
 - **Responsive Grid Layout**: 1-4 columns based on screen size
 - **Smooth Animations**: Hover effects and floating animations
 - **Mobile Friendly**: Fully responsive design
 
-### 🔧 Advanced Features
+###  Advanced Features
 - **Modal Recipe Details**: View full recipes with ingredients and instructions
 - **Real-time API Integration**: Live data from TheMealDB
 - **Multi-ingredient Search**: Search with multiple ingredients (fallback for free API)
 - **YouTube Integration**: Direct links to recipe videos when available
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Clone the repository**
    ```bash
@@ -47,7 +47,7 @@ A beautiful, modern web application for finding delicious recipes using TheMealD
 
 3. **Or visit the live demo**: [https://tranmaitiendat.github.io/Recipe-Finder/](https://tranmaitiendat.github.io/Recipe-Finder/)
 
-4. **Start cooking!** 🍽️
+4. **Start cooking!** 
 
 ## 📁 Project Structure
 
@@ -58,7 +58,7 @@ Recipe Finder/
 └── README.md          # Project documentation
 ```
 
-## 🎨 Design Features
+## Design Features
 
 ### 3D Background
 - Animated gradient background with floating effects
@@ -75,7 +75,7 @@ Recipe Finder/
 - Background: Purple-blue gradient (#667eea to #764ba2)
 - Accent: Orange-blue gradient for action buttons
 
-## 🔗 API Integration
+## API Integration
 
 This project uses the free [TheMealDB API](https://www.themealdb.com/api.php):
 
@@ -86,14 +86,14 @@ This project uses the free [TheMealDB API](https://www.themealdb.com/api.php):
 - **Random recipe**: `random.php`
 - **Recipe details**: `lookup.php?i={id}`
 
-## 📱 Responsive Design
+##  Responsive Design
 
 - **Mobile** (< 600px): 1 column layout
 - **Tablet** (600px - 900px): 2 columns
 - **Desktop** (900px - 1200px): 3 columns
 - **Large Desktop** (> 1200px): 4 columns
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**: Semantic markup
 - **CSS3**: Advanced styling with glassmorphism effects
@@ -101,7 +101,7 @@ This project uses the free [TheMealDB API](https://www.themealdb.com/api.php):
 - **TheMealDB API**: Recipe data source
 - **Responsive Design**: Mobile-first approach
 
-## 🌟 Screenshots
+##  Screenshots
 
 ### Main Interface
 ![Main Interface](screenshots/main-interface.png)
@@ -112,7 +112,7 @@ This project uses the free [TheMealDB API](https://www.themealdb.com/api.php):
 ### Filter Options
 ![Filter Options](screenshots/filter-options.png)
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -120,17 +120,17 @@ This project uses the free [TheMealDB API](https://www.themealdb.com/api.php):
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [TheMealDB](https://www.themealdb.com/) for providing the free recipe API
 - Design inspiration from modern glassmorphism trends
 - Icons and emojis for enhanced user experience
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Save favorite recipes to localStorage
 - [ ] Recipe rating system
@@ -142,4 +142,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ and lots of ☕ | Happy Cooking! 🍳✨
+
